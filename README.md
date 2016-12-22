@@ -6,3 +6,7 @@
 
 ### 截图
 ![效果](http://7xliwf.com1.z0.glb.clouddn.com/IMG_8070.PNG)
+
+
+### 更新
+使用WKWebView可以左滑动返回上一个页面，类似Safari一样。有时间写一个，Mark。大家有时间也可以自己研究一下。
